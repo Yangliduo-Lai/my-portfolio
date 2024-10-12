@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Yangliduo-Lai/my-portfolio.git/static/css/main.81cab19b.css",
-    "main.js": "/Yangliduo-Lai/my-portfolio.git/static/js/main.1b371209.js",
-    "static/js/453.acca0757.chunk.js": "/Yangliduo-Lai/my-portfolio.git/static/js/453.acca0757.chunk.js",
-    "index.html": "/Yangliduo-Lai/my-portfolio.git/index.html",
-    "main.81cab19b.css.map": "/Yangliduo-Lai/my-portfolio.git/static/css/main.81cab19b.css.map",
-    "main.1b371209.js.map": "/Yangliduo-Lai/my-portfolio.git/static/js/main.1b371209.js.map",
-    "453.acca0757.chunk.js.map": "/Yangliduo-Lai/my-portfolio.git/static/js/453.acca0757.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.81cab19b.css",
+    "main.js": "/my-portfolio/static/js/main.f5442fdf.js",
+    "static/js/453.acca0757.chunk.js": "/my-portfolio/static/js/453.acca0757.chunk.js",
+    "index.html": "/my-portfolio/index.html",
+    "main.81cab19b.css.map": "/my-portfolio/static/css/main.81cab19b.css.map",
+    "main.f5442fdf.js.map": "/my-portfolio/static/js/main.f5442fdf.js.map",
+    "453.acca0757.chunk.js.map": "/my-portfolio/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81cab19b.css",
-    "static/js/main.1b371209.js"
+    "static/js/main.f5442fdf.js"
   ]
 }
